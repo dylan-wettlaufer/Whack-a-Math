@@ -3,20 +3,20 @@ Course project for Computer Science 2212. Worked with 4 other group memebers. I 
 WhackAMath is an educational math game aimed at improving the mental math capabilities of grade school children.
 How to Build From Source Code:
 
-	Download the external library from:  https://gluonhq.com/products/javafx/ 
-	Open the project in IntelliJIDEA on a windows computer
-	Go to file>Project Structure>Libraries
-	Click the plus sign and click Java
-	In the file explorer, go to the downloaded file, open it and select lib, import this file
-	If a prompt comes up telling you this will be added to the project, click OK
-	Select Apply and OK
-	If this does not add the library, repeat steps 4-7
-	Go to Run Configurations and click Edit Configurations
-	Click the plus sign to add a new configuration
-	Select Application
-	Title it anything
-	Select SignInMain as the main class
-	Add these lines in the VM options line, replacing <add your path here> with the path to your lib file:
+	1. Download the external library from:  https://gluonhq.com/products/javafx/ 
+	2. Open the project in IntelliJIDEA on a windows computer
+	3. Go to File>Project Structure>Libraries
+	4. Click the plus sign and click Java
+	5. In the file explorer, go to the downloaded file, open it and select lib, import this file
+	6. If a prompt comes up telling you this will be added to the project, click OK
+	7. Select Apply and OK
+	8. If this does not add the library, repeat steps 4-7
+	9. Go to Run Configurations and click Edit Configurations
+	10. Click the plus sign to add a new configuration
+	11. Select Application
+	12. Title it anything
+	13. Select SignInMain as the main class
+	14. Add these lines in the VM options line, replacing <add your path here> with the path to your lib file:
 
 --module-path
 " <add your path here>"
