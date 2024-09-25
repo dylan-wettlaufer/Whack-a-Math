@@ -1,4 +1,4 @@
-Readme
+Course project for Computer Science 2212. Worked with 4 other group memebers. I contributed to the main game loop, the level progression, the lives and score system, and the games visuals.
 
 WhackAMath is an educational math game aimed at improving the mental math capabilities of grade school children.
 How to Build From Source Code:
